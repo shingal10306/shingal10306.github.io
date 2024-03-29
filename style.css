@@ -21,6 +21,7 @@ header h1 {
 }
 header h2 {
   text-align: right;
+  margin: 20px;
 }
 nav {
   padding: 20px;
