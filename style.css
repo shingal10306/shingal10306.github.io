@@ -19,9 +19,13 @@ header h1 {
   text-align: center;
   padding: 50px;
 }
+header h2 {
+  text-align: right;
+}
 nav {
   padding: 20px;
-  background-color: #00ff00;
+  background-color: #ffffff;
+  text-align: center;
 }
 section {
   background-image: linear-gradient(to bottom, #a85f00 , #000000);
