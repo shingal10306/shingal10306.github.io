@@ -41,3 +41,16 @@ article {
 article p {
     font-family: "GulimChe", "굴림체", sans-serif;
 }
+.rick {
+  width: 5%;
+  align: left;
+  margin-left: 0%;
+  animation-name: example;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes example {
+  from {margin-left: 0%;}
+  to {margin-left: 100%;}
+}
