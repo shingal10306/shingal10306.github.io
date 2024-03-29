@@ -13,8 +13,10 @@ header {
   color: #000000;
 }
 nav {
-
+  padding: 40px;
+  background-color: #00ff00;
 }
 article {
   background-image: linear-gradient(to bottom, #a85f00 , #000000);
+  color: :ffff7f;
 }
