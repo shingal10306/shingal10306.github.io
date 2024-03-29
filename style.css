@@ -8,3 +8,13 @@ h1 {
 img {
   width: 100%;
 }
+header {
+  background-color: #fccf03;
+  color: #000000;
+}
+nav {
+
+}
+article {
+  background-image: linear-gradient(to bottom, #a85f00 , #000000);
+}
