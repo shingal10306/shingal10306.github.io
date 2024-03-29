@@ -25,6 +25,7 @@ nav {
 }
 section {
   background-image: linear-gradient(to bottom, #a85f00 , #000000);
+  background-attachment: fixed;
 }
 article {
   background-color: #fceed7;
