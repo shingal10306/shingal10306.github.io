@@ -28,6 +28,7 @@ section {
 article {
   background-color: #fceed7;
   color: ffff7f;
+  align: center;
   width: 70%;
   padding: 50px;
 }
