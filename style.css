@@ -16,7 +16,12 @@ nav {
   padding: 40px;
   background-color: #00ff00;
 }
-article {
+section {
   background-image: linear-gradient(to bottom, #a85f00 , #000000);
-  color: :ffff7f;
+}
+article {
+  background-color: #fceed7;
+  color: ffff7f;
+  width: 70%;
+  padding: 50px;
 }
