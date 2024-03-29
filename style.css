@@ -15,7 +15,7 @@ header {
 }
 header h1 {
   text-shadow: 0 0 10px #ff8080, 0 0 20px #d66b6b, 0 0 30px #b85c5c, 0 0 40px #944a4a, 0 0 50px #6e3737, 0 0 60px #4a2525, 0 0 70px #291414;
-  font-size: 50px;
+  font-size: 5%;
   text-align: center;
 }
 nav {
