@@ -53,6 +53,10 @@ article p {
   animation-timing-function: linear;
 }
 
+.sprite {
+  width: 50px;
+}
+
 @keyframes example {
   from {margin-left: 0%;}
   to {margin-left: 95%;}
